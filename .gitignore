@@ -1,0 +1,51 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Environment Variables
+.env
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / Build
+build/
+dist/
+*.egg-info/
+
+# Chroma Vector Database
+db_chroma_db/
+
+# SQLite databases
+*.sqlite3
+*.db
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Pytest
+.pytest_cache/
+
+# Mypy
+.mypy_cache/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Temporary files
+*.tmp
+*.temp
